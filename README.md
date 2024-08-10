@@ -1,4 +1,4 @@
-![remove salary](https://github.com/user-attachments/assets/2da2ddfc-dc77-4fd8-a691-26ce0d408fd8)### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
+# EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
 ### DATE: 
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
