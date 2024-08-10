@@ -105,7 +105,7 @@ rainy,75.0,80.0,false,yes
 <img src="https://github.com/user-attachments/assets/09929750-4c46-4f56-9fb8-8b00388d9d90">
 
 #### Weather Table after Removing new attribute WINDY, PLAY:
-<img src="">
+<img src="https://github.com/user-attachments/assets/c359162a-f4c9-46f0-a799-033840b05483">
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -126,7 +126,7 @@ rainy,75.0,80.0,false,yes
 <img src="https://github.com/user-attachments/assets/cefb5f3a-c65d-4670-918c-1261ce718e30">
 
 #### Weather Table after Normalizing TEMPARATURE, HUMIDITY:
-<img src="">
+<img src="https://github.com/user-attachments/assets/e53edf57-b05c-4e3e-9892-e7612ec9b1b6">
 
 
 ### RESULT: 
